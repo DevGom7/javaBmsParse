@@ -1,0 +1,8 @@
+option java_package = "com.protocol";
+option java_outer_classname = "Protocol_TypeDefine";
+
+message TypeDefine {
+
+	optional int32 abc = 1;
+
+}
